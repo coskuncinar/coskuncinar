@@ -9,4 +9,4 @@ Docker, VSTO Add-in, \
 SignalR, WebSocket,RestFul, Soap,  Web Service,jQuery,  \
 OOP, Design Patterns,Design Principles, Kiss, Dry, Yagni, \
 sc: git, github, gitlab, bitbucket, Azure,  \
-ide: vsCode,eclipse,android Studio, visual Studio,  intellij idea, rad studio \
+ide: vsCode,eclipse,android Studio, visual Studio,  intellij idea, rad studio
